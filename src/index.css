@@ -68,7 +68,7 @@ body {
 .turn {
   display: flex;
   justify-content: center;
-  margin: 15px auto;
+  margin: 25px auto;
   width: fit-content;
   position: relative;
   border-radius: 10px;
