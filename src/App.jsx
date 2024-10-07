@@ -103,7 +103,7 @@ function App() {
         <Square isSelected={turn === TURNS.O}>{TURNS.O}</Square>
       </section>
 
-      <span className="created">By Salvdor Pereira</span>
+      <span className="created">By Salvador Pereira</span>
 
       <WinnerModal resetGame={resetGame} winner={winner}></WinnerModal>
     </main>
